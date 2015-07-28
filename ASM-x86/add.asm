@@ -8,8 +8,8 @@ mov ebp,esp
 sub esp,0xc ;allocating space
 mov DWORD[ebp-4],20 ;argument 1
 mov DWORD[ebp-8],10 ;argument 2
-push DWORD[ebp-8] ;Argument pushed to 
-push DWORD[ebp-4] ;
+push DWORD[ebp-8] ;Argument 1
+push DWORD[ebp-4] ;Argument 2
 call adder ;Adder function is called
 
 adder: ;function Definition
