@@ -16,3 +16,4 @@ processors.
 - [x] [Multiplication](https://github.com/PSNAppz/x86-Assembly/blob/master/ASM-x86/multi.asm)
 - [x] [Shell](https://github.com/PSNAppz/x86-Assembly/blob/master/ASM-x86/shell.asm )
 - [x] [User input](https://github.com/PSNAppz/x86-Assembly/blob/master/ASM-x86/usrinpt.asm )
+- [x] [Sum of numbers(recursion)](https://github.com/PSNAppz/x86-Assembly/blob/master/ASM-x86/sum_num.asm)
