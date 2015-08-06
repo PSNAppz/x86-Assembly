@@ -48,4 +48,6 @@ mov eax,DWORD [ebp-0x4]
 mov DWORD [esp],eax
 call foo
 leave
-ret
+ret;Al last returning back .:P
+
+
